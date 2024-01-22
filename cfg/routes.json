@@ -1,0 +1,6 @@
+{
+	"home/index": "homeController::render",
+	"other/index": "otherController::render",
+	"home/getHomeData": "homeController::getHomeData",
+	"other/postOtherData": "otherController::postOtherData"
+}
